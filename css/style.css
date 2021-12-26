@@ -1,0 +1,62 @@
+.table {
+    
+        width: 90%;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+}
+
+
+
+.box-left {
+    width: 37%;
+    background-color: rgb(126, 229, 218);   
+    float: left;
+   
+    text-align: center;
+    margin-top: 3px;
+    width: 38%;
+    padding: 19px;
+}
+
+.box-center {
+    background-color: rgb(112, 204, 194);
+    float: left;
+    text-align: center;
+    margin-left: 3px;
+    width: 15%;
+    margin-top: 3px;
+    padding: 10px;
+   
+}
+
+.box-right {
+
+    background-color: rgb(98, 179, 170);
+    text-align: center;
+    float: left;
+    width: 47%;
+    margin-top: 3px;
+    padding: 7px;
+    margin-left: 3px;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+
+
+/* --------------------------- Header ------------------------------------ */
+.header {
+    text-align: center;
+}
+
+/* ---------------------------- Footer ----------------------------------- */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+}
